@@ -30,7 +30,7 @@ export const playsSeason: PlaysDTO[] = [
     year: ["2022"],
     shortDescription:
       "E quando o que tudo sobra é a saudade do que foi ficando pelo caminho? Contamos a história do Sr. Tulio, o dono do Bar do Caminho. O bar era conhecido assim porque ficava no caminho de muitas pessoas que voltavam para casa. Sabe aqueles barzinhos que também são mercearia e estão na memória de todo brasileiro? Pois é... É esse mesmo.",
-    path: "tempus-fugit",
+    path: "bar-do-caminho",
   },
   {
     name: "Flor Telefone Moça",

@@ -11,6 +11,7 @@ import TempusFugit from "./routes/Peças/TempusFugit";
 import Seasons from "./routes/Seasons";
 import About from "./routes/About";
 import ChaoBrasil from "./routes/Peças/ChaoBrasil";
+import BarDoCaminho from "./routes/Peças/BarDoCaminho";
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
         <Route path="/temporadas" element={<Seasons />} />
         <Route path="/temporadas/tempus-fugit" element={<TempusFugit />} />
         <Route path="/temporadas/chao-brasil" element={<ChaoBrasil />} />
+        <Route path="/temporadas/bar-do-caminho" element={<BarDoCaminho />} />
       </Routes>
     </Router>
   );
