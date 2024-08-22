@@ -96,8 +96,7 @@ export function BarDoCaminho() {
             </Col>
             <Col xs={12} md={0} className="mt-5"></Col>
           </Row>
-        </Container>
-        <Container>
+
           <Row>
             <Col
               xs={1}
@@ -139,54 +138,45 @@ export function BarDoCaminho() {
                 ressoam com a tradição dos bares até músicas contemporâneas que
                 capturam a essência da vida noturna, a trilha sonora da peça
                 contribui para a criação de uma atmosfera autêntica e
-                envolvente. Cada música é escolhida para refletir o espírito do
-                bar e as histórias dos personagens, proporcionando uma
+                envolvente. Cada música é escolhida para refletir o espírito
+                docd bar e as histórias dos personagens, proporcionando uma
                 experiência sensorial completa para o público, que inclusive é
                 convidado a cantar os classicos junto aos atores em cena.
               </p>
             </Col>
           </Row>
-          </Container>
+        </Container>
       </div>
+      <Container>
+        <Row className="backgroun-chaobrasil">
+          <Col
+            xs={12}
+            md={12}
+            className="d-flex justify-content-center align-items-center"
+          ></Col>
+        </Row>
+        <Row className="">
+          <Col xs={12} md={12} xl={12} className="mt-5">
+            <p className="">
+              o Bar do Caminho é uma peça que explora a saudade de maneira
+              profunda, utilizando o bar como um lugar comum para que possamos
+              examinar as memórias, tradições e o impacto das mudanças na vida
+              das pessoas. A peça combina elementos de nostalgia, cultura e
+              experiência pessoal para criar uma narrativa rica e emocionalmente
+              ressonante.
+            </p>
+          </Col>
+          <Col xs={12} md={12} xl={12} className="mt-5">
+            <Image
+              src={
+                "https://github.com/LucasRuizMartins/midia-arenart/blob/main/temporadas/2022-bar-do-caminho/paredao-cadeiras.jpeg?raw=true"
+              }
+              fluid
+            />
+          </Col>
+        </Row>
+      </Container>
 
-
-<Container> 
-
-<Row className="backgroun-chaobrasil">
-        <Col
-          xs={12}
-          md={12}
-          className="d-flex justify-content-center align-items-center"
-        ></Col>
-      </Row>
-      <Row className="">
-    
-        <Col xs={12} md={12} xl={12} className="mt-5">
-          <p className="">
-            o Bar do Caminho é uma peça que explora a saudade de maneira
-            profunda, utilizando o bar como um lugar comum para que possamos
-            examinar as memórias, tradições e o impacto das mudanças na vida das
-            pessoas. A peça combina elementos de nostalgia, cultura e
-            experiência pessoal para criar uma narrativa rica e emocionalmente
-            ressonante.
-          </p>
-        </Col>
-        <Col xs={12} md={12} xl={12} className="mt-5">
-          <Image
-            src={
-              "https://github.com/LucasRuizMartins/midia-arenart/blob/main/temporadas/2022-bar-do-caminho/paredao-cadeiras.jpeg?raw=true"
-            }
-            fluid
-          />
-        </Col>
-      </Row>
-</Container>
-      
-
-     
-
-
-     
       <Row className="mt-5">
         <Col
           xs={12}

@@ -46,7 +46,8 @@ export const playsSeason: PlaysDTO[] = [
       "https://github.com/LucasRuizMartins/midia-arenart/blob/main/temporadas/2019-nos-telhados-da-cidade/nos-telhados.jpg?raw=true",
     year: ["2019"],
     shortDescription:
-      "Nos telhados da cidade... inspirado em Rooftops, de Robert Wise, narra o cotidiano de jovens que vivem em prédios abandonados da cidade de São Paulo, enfrentando a violência urbana e descobrindo o valor da amizade, enquanto lutam por dias melhores. O espetáculo é uma releitura da montagem de 1999 e faz parte das comemorações dos 25 anos da companhia. Nessa nova versão, o grupo homenageia a poesia urbana do rapper Emicida e traz uma participação especial de MC Dartão Raptiulest.",   path: "tempus-fugit",
+      "Nos telhados da cidade... inspirado em Rooftops, de Robert Wise, narra o cotidiano de jovens que vivem em prédios abandonados da cidade de São Paulo, enfrentando a violência urbana e descobrindo o valor da amizade, enquanto lutam por dias melhores. O espetáculo é uma releitura da montagem de 1999 e faz parte das comemorações dos 25 anos da companhia. Nessa nova versão, o grupo homenageia a poesia urbana do rapper Emicida e traz uma participação especial de MC Dartão Raptiulest.",   
+      path: "nos-telhados-da-cidade",
   },
   {
     name: "Clarão nas estrelas",
