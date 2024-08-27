@@ -13,6 +13,8 @@ import About from "./routes/About";
 import ChaoBrasil from "./routes/Peças/ChaoBrasil";
 import BarDoCaminho from "./routes/Peças/BarDoCaminho";
 import NosTelhados from "./routes/Peças/NosTelhados";
+import EmConstrucao from "./routes/Peças/EmConstrucao";
+import Clarao from "./routes/Peças/Clarao";
 
 function App() {
   return (
@@ -27,6 +29,8 @@ function App() {
         <Route path="/temporadas/chao-brasil" element={<ChaoBrasil />} />
         <Route path="/temporadas/bar-do-caminho" element={<BarDoCaminho />} />
         <Route path="/temporadas/nos-telhados-da-cidade" element={<NosTelhados />} />
+        <Route path="/temporadas/clarao-nas-estrelas" element={<Clarao />} />
+        <Route path="/temporadas/em-construcao" element={<EmConstrucao />} />
       </Routes>
     </Router>
   );

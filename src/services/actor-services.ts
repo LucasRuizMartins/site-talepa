@@ -117,7 +117,7 @@ export const playsSeason: ActorInfoDTO[] = [
     facebook: "Antônio Kinho",
     recadinho:
       "Bem, eu sinto muita falta de tudo isso, de festivais, de me apresentar, de ouvir os aplausos depois da casa apresentação e sentir que o trabalho deu tudo certo. Acredito que foi uma das épocas que eu mais fiquei feliz em viver. Obrigado por tudo isso.",
-    foto: "",
+    foto: "https://github.com/LucasRuizMartins/midia-arenart/blob/main/elenco/chao%20brasil-%20clarao%20-%20nos%20telhados/kinho.jpeg?raw=true",
   },
   {
     dataHora: "16/08/2024 10:39:04",
@@ -290,7 +290,7 @@ export const playsSeason: ActorInfoDTO[] = [
     linkedin: "",
     facebook: "",
     recadinho: "",
-    foto: "",
+    foto: "https://github.com/LucasRuizMartins/midia-arenart/blob/main/elenco/arauto-mambembe/raffael.png?raw=true",
   },
   {
     dataHora: "22/08/2024 09:39:30",
@@ -326,6 +326,41 @@ export const playsSeason: ActorInfoDTO[] = [
     recadinho: "Não sei ainda 😅",
     foto: "",
   },
+  {
+    dataHora: "24/08/2024 20:21:40",
+    email: "mdxjdshs@gmail.com",
+    nome: "Guilherme Manfredi",
+    temporadas: ["2024 - Tempus Fugit", "2023 - Chão Brasil"],
+    seguePaginaInstagram: "Sim",
+    conteudoRedesSociais: "Bacana",
+    talEPaRepresentacao:
+      "Representou um recomeço, onde eu me reencontrei e consegui evoluir, tanto artisticamente quanto como indivíduo.",
+    conselho:
+      "Se joguem de cabeça sem medo do que pensarem de vocês, a vida é uma só e a arte é uma maravilha que merece ser vivida.",
+    ajudaParaONG:
+      "Participando em divulgações dos projetos e participando de possíveis rifas e modos de arrecadação.",
+    instagram: "@guilherme.manfredi",
+    linkedin: "Guilherme Manfredi",
+    facebook: "",
+    recadinho: "Quero voltar nesse site daqui alguns anos e ver o que mudou.",
+    foto: "https://github.com/LucasRuizMartins/midia-arenart/blob/main/elenco/chao-brasil%20-%20Tempus%20Fugit/guilherme.png?raw=true",
+  },
+  {
+    dataHora: "27/08/2024 17:41:41",
+    email: "bheatryzbriga0611@gmail.com",
+    nome: "Bya Briga",
+    temporadas: ["2024 - Tempus Fugit"],
+    seguePaginaInstagram: "Sim",
+    conteudoRedesSociais: "Tenho gostado bastante",
+    talEPaRepresentacao: "",
+    conselho: "Que aproveite muito",
+    ajudaParaONG: "Com a divulgação das atividades do grupo",
+    instagram: "@bhtzbrg",
+    linkedin: "",
+    facebook: "",
+    recadinho: "",
+    foto: ""
+},
   /* 2010 - 2014 */
   {
     dataHora: "20/08/2024 15:30:26",
@@ -372,6 +407,32 @@ export const playsSeason: ActorInfoDTO[] = [
     linkedin: "",
     facebook: "",
     recadinho: "",
+    foto: "",
+  },
+
+  /* 2003 - 2004 */
+
+  {
+    dataHora: "27/08/2024 10:09:15",
+    email: "roberta.quirinop@gmail.com",
+    nome: "Roberta Quirino",
+    temporadas: [
+      "2011 - Sussurros",
+      "2010 - Voando para o Alto",
+      "2004 - Arauto da Liberdade",
+      "2003 - O Mambembe",
+    ],
+    seguePaginaInstagram: "Sim",
+    conteudoRedesSociais: "",
+    talEPaRepresentacao:
+      "Um espaço de liberdade, comunidade e autoconhecimento.",
+    conselho:
+      "Vivam essa experiência ao máximo. Ela marcará a vida de cada um/a de vocês.",
+    ajudaParaONG: "",
+    instagram: "@robsquirino",
+    linkedin: "",
+    facebook: "",
+    recadinho: "Sem esse grupo, eu não seria a pessoa que sou hoje.",
     foto: "",
   },
 ];
