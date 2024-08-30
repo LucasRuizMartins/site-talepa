@@ -21,6 +21,7 @@ import Joana from "./routes/Peças/Joana";
 import Danton from "./routes/Peças/Danton";
 import Sussurros from "./routes/Peças/Sussurros";
 import Voando from "./routes/Peças/Voando";
+import AteOnde from "./routes/Peças/AteOnde";
 
 function App() {
   return (
@@ -48,6 +49,7 @@ function App() {
         <Route path="/temporadas/danton" element={<Danton />} />
         <Route path="/temporadas/sussurros" element={<Sussurros />} />
         <Route path="/temporadas/voando" element={<Voando />} />
+        <Route path="/temporadas/ate-onde-a-vista-alcanca" element={<AteOnde />} />
         <Route path="/temporadas/em-construcao" element={<EmConstrucao />} />
       </Routes>
     </Router>

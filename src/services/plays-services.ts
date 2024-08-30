@@ -120,7 +120,7 @@ export const playsSeason: PlaysDTO[] = [
     year: ["2009"],
     shortDescription:
       "Do arto do seu cavalo, o peão de boiadero observa a boiada e seu olhar toca a linha do horizonte, onde o céu e a terra se encontram... Alembrando os causos, os pousos, as longa comitiva, bamo contar pr’ocês um pouquinho da sua história. História que começou lá em 1930, no terreiro da fazenda de Seu Pedro Antonio, na chegada da folia do Santo Reis.  Sodade daquele céu coaiado de estrela, de quando a gente deitava ali debaxo e o sono vinha chegano devagarinho, como se a gente fosse dono de tudo, sem possuir nada.  Adiante, que é chegada a hora! Canta, minha gente!",
-    path: "/temporadas/em-construcao",
+    path: "/temporadas/ate-onde-a-vista-alcanca",
   },
   {
     name: "O que eu vi, O que nós Veremos",
