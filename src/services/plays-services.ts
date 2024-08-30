@@ -84,7 +84,7 @@ export const playsSeason: PlaysDTO[] = [
     year: ["2013", "2014"],
     shortDescription:
       "A Cia de Teatro Tal&Pá apresenta em sua temporada 2013 o espetáculo ‘As Vozes de Joana’, dramaturgia de Valéria de Oliveira sobre a jornada da heroína Joana D´Arc e seu julgamento pela Inquisição da Idade Média. A peça se utiliza da vida de uma das figuras mais celebres produzida pela humanidade para falar do quanto, diversas vozes ainda sofrem para gritar por direitos, ideais, justiça social e igualdade entre os sexos.",
-    path: "/temporadas/em-construcao",
+    path: "/temporadas/joana",
   },
   {
     name: "Arena Conta Danton",
@@ -93,7 +93,7 @@ export const playsSeason: PlaysDTO[] = [
     year: ["2012"],
     shortDescription:
       "A Cia de Teatro Tal&Pá apresenta em sua temporada 2012 o espetáculo ‘Arena conta Danton (que o Tal&Pá vai contar)’ adaptação de ‘Arena conta Danton’, da Cia Livre de Teatro, com dramaturgia de Fernando Bonassi para a obra de George Büchner (A morte de Danton), sobre os últimos dias da vida do revolucionário Georges-Jacques Danton e o processo político que o levou à guilhotina. A peça fala das incertezas e do vazio que se segue à morte dos ideais revolucionários, quando a luta termina e a realidade é bem menos poética que os sonhos originais.",
-    path: "/temporadas/em-construcao",
+    path: "/temporadas/danton",
   },
   {
     name: "Sussurros",
@@ -102,7 +102,7 @@ export const playsSeason: PlaysDTO[] = [
     year: ["2011"],
     shortDescription:
       "Um jovem repassa a sua vida e suas angústias ao longo de uma noite, perdido num porão escuro entre o delírio e a realidade. O texto é uma colcha de retalhos poéticos de autores consagrados e outros inéditos, construído a partir de cartas e relatos pessoais dos integrantes do grupo.‘Sussurros’ é um intervalo de reflexão, um sopro de ar fresco para a Cia. de Teatro Tal&Pá em seus dezessete anos de trabalho, um recorte da vida aos dezessete anos nos dias de hoje.",
-    path: "/temporadas/em-construcao",
+    path: "/temporadas/sussurros",
   },
   {
     name: "Voando Para o Alto",
@@ -111,7 +111,7 @@ export const playsSeason: PlaysDTO[] = [
     year: ["2010"],
     shortDescription:
       "Voando para o alto é uma versão moderna para a clássica história do pássaro que, diferente dos outros de sua espécie, não se preocupa apenas em conseguir comida: ele está preocupado em aperfeiçoar sua técnica e executar o mais belo dos vôos. Uma metáfora sobre acreditar nos próprios sonhos e buscar o que se quer, mesmo quando tudo parece conspirar contra isso. Inspirado no livro ‘Fernão Capelo Gaivota’, o romance que marcou diversas gerações de adolescentes, viajou 70 países do mundo e chegou a 40 milhões de cópias vendidas.",
-    path: "/temporadas/em-construcao",
+    path: "/temporadas/voando",
   },
   {
     name: "Até Onde A Vista Alcança",

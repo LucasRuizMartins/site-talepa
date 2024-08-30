@@ -423,7 +423,7 @@ export function About() {
                     alt="Evento 3"
                     className="timeline-img"
                   />
-                  <p>2003 - O Mambemte</p>
+                  <p>2003 - O Mambembe</p>
                 </div>
               </div>
 

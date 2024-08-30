@@ -148,8 +148,6 @@ export function Insane() {
         </Row>
       </Container>
 
-
-
       <Row>
         <Col className="text-center mb-5 mt-5">
           <div className="">
