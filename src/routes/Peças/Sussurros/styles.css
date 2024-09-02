@@ -14,6 +14,7 @@
 .background-sussurros-3 {
   background-color: #000;
   color: #fff;
+  width: 103%;
 }
 .sussurros-title {
   color: #fff;
@@ -23,6 +24,7 @@
 .background-sussurros {
   color: #fff;
   background-color: #424443;
+  width: 103%;
 }
 
 @media (min-width: 768px) {
@@ -44,4 +46,3 @@
   overflow: hidden;
   line-height: 0;
 }
-

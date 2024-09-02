@@ -64,7 +64,22 @@
   background-color: #0f0050;
   border-color: #000;
 }
-.mt100-{margin-top: -100px;}
-.mt50-{margin-top: -50px;}
-.mt40-{margin-top: -40px;}
-.mt10-{margin-top: -10px;}
+
+.divisor {
+  width: 102%;
+}
+.mt100- {
+  margin-top: -100px;
+}
+.mt50- {
+  margin-top: -50px;
+}
+.mt40- {
+  margin-top: -40px;
+}
+.mt20- {
+  margin-top: -20px;
+}
+.mt10- {
+  margin-top: -10px;
+}

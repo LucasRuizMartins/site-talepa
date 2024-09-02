@@ -16,7 +16,7 @@ export function TempusFugit() {
         <Image className="" src={tempusFugit} />
       </Row>
 
-      <div className="custom-shape-divider-bottom-1725286741 mt40-">
+      <div className="mt20-- divisor">
         <svg
           data-name="Layer 1"
           xmlns="http://www.w3.org/2000/svg"

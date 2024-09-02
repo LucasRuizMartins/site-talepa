@@ -16,7 +16,7 @@ export function Sussurros() {
       <Row>
         <Col className="text-center "></Col>
       </Row>
-      <div>
+      <div className="divisor">
         <svg
           data-name="Layer 1"
           xmlns="http://www.w3.org/2000/svg"
@@ -93,7 +93,7 @@ export function Sussurros() {
         <svg
           xmlns="http://www.w3.org/2000/svg"
           viewBox="0 0 1440 320"
-          className="mt100-"
+          className="mt100- divisor"
         >
           <path
             fill="#000000"
@@ -103,14 +103,10 @@ export function Sussurros() {
         </svg>
       </div>
 
-      <div className="background-sussurros-3 mt10-">
-        <Container>
+      <div className="background-sussurros-3 mt20-">
+        <Container className="mt20-">
           <Row>
-            <Col
-              xs={1}
-              md={1}
-              className="order-1 order-md-2 order-xl-1"
-            ></Col>
+            <Col xs={1} md={1} className="order-1 order-md-2 order-xl-1"></Col>
             <Col xs={10} md={10} className="mt-1 order-1 order-md-2 order-xl-1">
               <Image
                 src={
@@ -121,11 +117,7 @@ export function Sussurros() {
             </Col>
 
             <Row>
-              <Col
-                xs={12}
-                md={7}
-                className="order-1 order-md-1 order-xl-1"
-              >
+              <Col xs={12} md={7} className="order-1 order-md-1 order-xl-1">
                 <Image
                   src={
                     "https://github.com/LucasRuizMartins/midia-arenart/blob/main/temporadas/2011-sussurros/lampada.jpg?raw=true"
@@ -133,11 +125,7 @@ export function Sussurros() {
                   fluid
                 ></Image>
               </Col>
-              <Col
-                xs={12}
-                md={5}
-                className="order-2 order-md-1 order-xl-1"
-              >
+              <Col xs={12} md={5} className="order-2 order-md-1 order-xl-1">
                 <h4> "SUSSURROS"</h4>
                 <p className="  fst-italic">
                   “Só quero aquele momento, aquele vago instante que existe
