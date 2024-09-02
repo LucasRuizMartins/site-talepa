@@ -1,4 +1,16 @@
+.tempus-fugit-top {
+  width: 100%;
+}
+.tempus-fugit-top img {
+  margin: 0 auto;
+  width: 70%;
+}
 
+.background-tempus-fugit {
+  margin-top: -5px;
+  background-color: black;
+  color: #fff;
+}
 
 @media (max-width: 768px) {
   .elenco-desc {

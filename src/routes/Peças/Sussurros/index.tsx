@@ -109,7 +109,7 @@ export function Sussurros() {
             <Col
               xs={1}
               md={1}
-              className="mt-1 order-1 order-md-2 order-xl-1"
+              className="order-1 order-md-2 order-xl-1"
             ></Col>
             <Col xs={10} md={10} className="mt-1 order-1 order-md-2 order-xl-1">
               <Image
@@ -124,7 +124,7 @@ export function Sussurros() {
               <Col
                 xs={12}
                 md={7}
-                className="mt-1 order-1 order-md-1 order-xl-1"
+                className="order-1 order-md-1 order-xl-1"
               >
                 <Image
                   src={
@@ -136,10 +136,10 @@ export function Sussurros() {
               <Col
                 xs={12}
                 md={5}
-                className="mt-5 order-2 order-md-1 order-xl-1"
+                className="order-2 order-md-1 order-xl-1"
               >
                 <h4> "SUSSURROS"</h4>
-                <p className="mt-4  fst-italic">
+                <p className="  fst-italic">
                   “Só quero aquele momento, aquele vago instante que existe
                   entre um pensamento e outro... Um momento de paz e silêncio,
                   um intervalo, uma vírgula, um hiato... Porque a minha mente
