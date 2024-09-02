@@ -782,7 +782,7 @@ export const playsSeason: ActorInfoDTO[] = [
     facebook: "",
     linkedin: "",
     recadinho: "",
-    foto: "",
+    foto: "https://github.com/LucasRuizMartins/midia-arenart/blob/main/elenco/Voando%20-%20Sussurros%20-%20Danton/karol%20pinheiros.jpg?raw=true",
   },
   /* 2003 - 2004 */
 

@@ -22,6 +22,7 @@ import Danton from "./routes/Peças/Danton";
 import Sussurros from "./routes/Peças/Sussurros";
 import Voando from "./routes/Peças/Voando";
 import AteOnde from "./routes/Peças/AteOnde";
+import OqueEuVi from "./routes/Peças/OqueEuVi";
 
 function App() {
   return (
@@ -50,6 +51,7 @@ function App() {
         <Route path="/temporadas/sussurros" element={<Sussurros />} />
         <Route path="/temporadas/voando" element={<Voando />} />
         <Route path="/temporadas/ate-onde-a-vista-alcanca" element={<AteOnde />} />
+        <Route path="/temporadas/o-que-eu-vi" element={<OqueEuVi />} />
         <Route path="/temporadas/em-construcao" element={<EmConstrucao />} />
       </Routes>
     </Router>
@@ -57,3 +59,4 @@ function App() {
 }
 
 export default App;
+

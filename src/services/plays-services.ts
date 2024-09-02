@@ -129,7 +129,7 @@ export const playsSeason: PlaysDTO[] = [
     year: ["2008"],
     shortDescription:
       " Por que sonham os homens? O sonho é o ensaio da realização. É o esboço... Rascunho da ação. Quem não sonha, apenas sobrevive... Os jovens da Cia. de Teatro Tal&Pá experimentam a linguagem que permeia o mundo clownesco para reinventar a história de Santos Dumont e seu desejo de voar. Sua figura romântica cruzava os céus de Paris, em máquinas mais-pesadas-que-o-ar, anunciando uma nova era de grandes mudanças. Abrindo o caminho, provando a todos que era possível sonhar, e voar como os pássaros, Santos-Dumont inspirou toda uma geração de artistas, cientistas, inventores e espíritos aventureiros. ",
-    path: "/temporadas/em-construcao",
+    path: "/temporadas/o-que-eu-vi",
   },
   {
     name: "Motorboy",
