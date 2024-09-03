@@ -147,7 +147,7 @@ export const playsSeason: PlaysDTO[] = [
     year: ["2006"],
     shortDescription:
       "O Grupo Tal&Pá escolheu para a temporada de 2006 a peça ‘Arena conta Zumbi’, de Gianfrancesco Guarnieri, Augusto Boal e Edu Lobo, escrita em 1965, mantendo o compromisso de criar referências comuns ao momento social e político no qual o Brasil se encontra nos dias de hoje. ‘Arena conta Zumbi’ reflete outra forma de engajamento político: a do militante negro nos processos sociais. Revela um ponto de vista humano, capaz de romper as fronteiras da raça. A imaginação privilegiada, a cultura popular e a criatividade de Guarnieri e Boal, aliada à inspiração jovem e singular de Edu Lobo garantiram ao espetáculo lugar de destaque na memória dos palcos mais importantes do país.",
-    path: "/temporadas/em-construcao",
+    path: "/temporadas/zumbi",
   },
   {
     name: "O Último Carro",
