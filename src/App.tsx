@@ -23,6 +23,7 @@ import Sussurros from "./routes/Peças/Sussurros";
 import Voando from "./routes/Peças/Voando";
 import AteOnde from "./routes/Peças/AteOnde";
 import OqueEuVi from "./routes/Peças/OqueEuVi";
+import MotorBoy from "./routes/Peças/MotorBoy";
 
 function App() {
   return (
@@ -36,8 +37,7 @@ function App() {
         <Route path="/temporadas/tempus-fugit" element={<TempusFugit />} />
         <Route path="/temporadas/chao-brasil" element={<ChaoBrasil />} />
         <Route path="/temporadas/bar-do-caminho" element={<BarDoCaminho />} />
-        <Route
-          path="/temporadas/nos-telhados-da-cidade"
+        <Route           path="/temporadas/nos-telhados-da-cidade"
           element={<NosTelhados />}
         />
         <Route path="/temporadas/clarao-nas-estrelas" element={<Clarao />} />
@@ -52,6 +52,7 @@ function App() {
         <Route path="/temporadas/voando" element={<Voando />} />
         <Route path="/temporadas/ate-onde-a-vista-alcanca" element={<AteOnde />} />
         <Route path="/temporadas/o-que-eu-vi" element={<OqueEuVi />} />
+        <Route path="/temporadas/motorboy" element={<MotorBoy />} />
         <Route path="/temporadas/em-construcao" element={<EmConstrucao />} />
       </Routes>
     </Router>

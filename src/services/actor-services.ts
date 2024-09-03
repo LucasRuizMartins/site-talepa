@@ -758,9 +758,9 @@ export const playsSeason: ActorInfoDTO[] = [
     recadinho: "",
     foto: "https://github.com/LucasRuizMartins/midia-arenart/blob/main/elenco/Voando%20-%20Sussurros%20-%20Danton/Lari_Dias.png?raw=true",
   },
+
   /* 2009 */
 
- 
   {
     dataHora: "28/08/2024 23:41:56",
     email: "krl.pinheiro@gmail.com",
@@ -790,11 +790,7 @@ export const playsSeason: ActorInfoDTO[] = [
     dataHora: "27/08/2024 10:09:15",
     email: "roberta.quirinop@gmail.com",
     nome: "Roberta Quirino",
-    temporadas: [
-    
-      "2004 - Arauto da Liberdade",
-      "2003 - O Mambembe",
-    ],
+    temporadas: ["2004 - Arauto da Liberdade", "2003 - O Mambembe"],
     seguePaginaInstagram: "Sim",
     conteudoRedesSociais: "",
     talEPaRepresentacao:
@@ -808,7 +804,9 @@ export const playsSeason: ActorInfoDTO[] = [
     recadinho: "Sem esse grupo, eu não seria a pessoa que sou hoje.",
     foto: "",
   },
+
   /* 1999 - 2000 */
+
   {
     dataHora: "28/08/2024 23:20:36",
     email: "geprado81@gmail.com",

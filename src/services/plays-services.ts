@@ -138,7 +138,7 @@ export const playsSeason: PlaysDTO[] = [
     year: ["2007"],
     shortDescription:
       "Dirigida ao público adolescente, a peça fala de seus dramas, conflitos familiares e pessoais, mas também de suas perspectivas, ao narrar as aventuras cotidianas de um grupo de motoboys. A personagem central, Cristina, é uma garota que, traumatizada por um estupro, se disfarça de rapaz. Em meio às dificuldades do primeiro emprego, defendendo valores como caráter e responsabilidade, ela descobre o amor e a liberdade",
-    path: "/temporadas/em-construcao",
+    path: "/temporadas/motorboy",
   },
   {
     name: "Arena Conta Zumbi",
