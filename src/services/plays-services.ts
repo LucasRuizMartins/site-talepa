@@ -156,7 +156,7 @@ export const playsSeason: PlaysDTO[] = [
     year: ["2005"],
     shortDescription:
       "‘(...) Qual é a próxima estação?’ ‘O Último Carro’, texto de João das Neves escolhido para a temporada 2005, traz para o espectador uma preocupação temática básica: a discussão de problemas concretos do povo brasileiro. Aparentemente trata-se de uma simples viagem de trem no subúrbio, onde mendigos e operários, diversos personagens comuns a esse cotidiano, enfocam seus dramas particulares durante a viagem e suas paradas. Os vários ‘pequenos dramas’ perdem a sua autonomia e ganham organicidade dramática ao serem confrontados com a louca corrida do trem, que, subitamente, parece já não mais obedecer a nenhum comando racional, obrigando a todos uma definição radical sobre seus destinos. ",
-    path: "/temporadas/em-construcao",
+    path: "/temporadas/ultimo-carro",
   },
   {
     name: "O Arauto da Liberdade",

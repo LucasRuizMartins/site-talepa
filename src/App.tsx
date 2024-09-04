@@ -25,6 +25,7 @@ import AteOnde from "./routes/Peças/AteOnde";
 import OqueEuVi from "./routes/Peças/OqueEuVi";
 import MotorBoy from "./routes/Peças/MotorBoy";
 import Zumbi from "./routes/Peças/Zumbi";
+import UltimoCarro from "./routes/Peças/UltimoCarro";
 
 function App() {
   return (
@@ -55,6 +56,7 @@ function App() {
         <Route path="/temporadas/o-que-eu-vi" element={<OqueEuVi />} />
         <Route path="/temporadas/motorboy" element={<MotorBoy />} />
         <Route path="/temporadas/zumbi" element={<Zumbi />} />
+        <Route path="/temporadas/ultimo-carro" element={<UltimoCarro />} />
         <Route path="/temporadas/em-construcao" element={<EmConstrucao />} />
       </Routes>
     </Router>
