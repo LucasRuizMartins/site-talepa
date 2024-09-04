@@ -164,7 +164,7 @@ export const playsSeason: PlaysDTO[] = [
     year: ["2004"],
     shortDescription:
       " ‘Dez vidas eu tivesse, dez vidas eu daria...’ O Arauto da Liberdade é uma adaptação da peça Arena Conta Tiradentes, escrita e encenada pelo Teatro de Arena em 1967. Marco na modernização do teatro brasileiro e um dos palcos mais importantes do país, o Teatro de Arena de São Paulo completa meio século de existência, entre as comemorações dos 450 anos de Sampa. Aproveitando a festa, o Grupo Tal&Pá celebra seus dez anos reencenando o polêmico Arena conta Tiradentes, com o desafio de criar referências comuns ao momento social e político no qual o Brasil se encontra nos dias de hoje.",
-    path: "/temporadas/em-construcao",
+    path: "/temporadas/arauto",
   },
   {
     name: "O Mambembe",
