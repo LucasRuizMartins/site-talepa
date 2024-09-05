@@ -27,6 +27,7 @@ import MotorBoy from "./routes/Peças/MotorBoy";
 import Zumbi from "./routes/Peças/Zumbi";
 import UltimoCarro from "./routes/Peças/UltimoCarro";
 import Arauto from "./routes/Peças/Arauto";
+import Mambembe from "./routes/Peças/Mambembe";
 
 function App() {
   return (
@@ -40,7 +41,8 @@ function App() {
         <Route path="/temporadas/tempus-fugit" element={<TempusFugit />} />
         <Route path="/temporadas/chao-brasil" element={<ChaoBrasil />} />
         <Route path="/temporadas/bar-do-caminho" element={<BarDoCaminho />} />
-        <Route           path="/temporadas/nos-telhados-da-cidade"
+        <Route
+          path="/temporadas/nos-telhados-da-cidade"
           element={<NosTelhados />}
         />
         <Route path="/temporadas/clarao-nas-estrelas" element={<Clarao />} />
@@ -53,12 +55,16 @@ function App() {
         <Route path="/temporadas/danton" element={<Danton />} />
         <Route path="/temporadas/sussurros" element={<Sussurros />} />
         <Route path="/temporadas/voando" element={<Voando />} />
-        <Route path="/temporadas/ate-onde-a-vista-alcanca" element={<AteOnde />} />
+        <Route
+          path="/temporadas/ate-onde-a-vista-alcanca"
+          element={<AteOnde />}
+        />
         <Route path="/temporadas/o-que-eu-vi" element={<OqueEuVi />} />
         <Route path="/temporadas/motorboy" element={<MotorBoy />} />
         <Route path="/temporadas/zumbi" element={<Zumbi />} />
         <Route path="/temporadas/ultimo-carro" element={<UltimoCarro />} />
         <Route path="/temporadas/arauto" element={<Arauto />} />
+        <Route path="/temporadas/mambembe" element={<Mambembe />} />
         <Route path="/temporadas/em-construcao" element={<EmConstrucao />} />
       </Routes>
     </Router>
@@ -66,4 +72,3 @@ function App() {
 }
 
 export default App;
-
