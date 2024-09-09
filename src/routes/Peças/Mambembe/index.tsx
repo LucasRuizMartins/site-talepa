@@ -364,7 +364,7 @@ export function Mambembe() {
             }
             fluid
             thumbnail
-          />{" "}
+          />
           <p className="font-monospace mt-2">
             A inspiração para o cenário vem dos quadros de Magritte, que revelam
             o seu desejo de “descrever o mistério do visível e do invisível”, de

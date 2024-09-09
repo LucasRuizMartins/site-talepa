@@ -1,8 +1,6 @@
 import { PlaysDTO } from "../models/plays";
 
-//https://drive.google.com/uc?export=view&id= 
-
-
+//https://drive.google.com/uc?export=view&id=
 
 export const playsSeason: PlaysDTO[] = [
   {
@@ -37,7 +35,8 @@ export const playsSeason: PlaysDTO[] = [
     imgUrl:
       "https://github.com/LucasRuizMartins/midia-arenart/blob/main/temporadas/2021-flor-telefone-moca/flor-telefone-moca.jpg?raw=true",
     year: ["2021"],
-    shortDescription: "Durante a pândemia nós tivemos que nos afastar, porém como sempre o Tal&Pá se reinventa, essa peça é uma Web adaptação audio visual do conto do Carlos Drummond de Andrade",
+    shortDescription:
+      "Durante a pândemia nós tivemos que nos afastar, porém como sempre o Tal&Pá se reinventa, essa peça é uma Web adaptação audio visual do conto do Carlos Drummond de Andrade",
     path: "/temporadas/em-construcao",
   },
   {
@@ -46,22 +45,22 @@ export const playsSeason: PlaysDTO[] = [
       "https://github.com/LucasRuizMartins/midia-arenart/blob/main/temporadas/2019-nos-telhados-da-cidade/nos-telhados.jpg?raw=true",
     year: ["2019"],
     shortDescription:
-      "Nos telhados da cidade... inspirado em Rooftops, de Robert Wise, narra o cotidiano de jovens que vivem em prédios abandonados da cidade de São Paulo, enfrentando a violência urbana e descobrindo o valor da amizade, enquanto lutam por dias melhores. O espetáculo é uma releitura da montagem de 1999 e faz parte das comemorações dos 25 anos da companhia. Nessa nova versão, o grupo homenageia a poesia urbana do rapper Emicida e traz uma participação especial de MC Dartão Raptiulest.",   
-      path: "nos-telhados-da-cidade",
+      "Nos telhados da cidade... inspirado em Rooftops, de Robert Wise, narra o cotidiano de jovens que vivem em prédios abandonados da cidade de São Paulo, enfrentando a violência urbana e descobrindo o valor da amizade, enquanto lutam por dias melhores. O espetáculo é uma releitura da montagem de 1999 e faz parte das comemorações dos 25 anos da companhia. Nessa nova versão, o grupo homenageia a poesia urbana do rapper Emicida e traz uma participação especial de MC Dartão Raptiulest.",
+    path: "nos-telhados-da-cidade",
   },
   {
     name: "Clarão nas estrelas",
     imgUrl:
-      "https://scontent.fcgh38-1.fna.fbcdn.net/v/t1.6435-9/28575906_1624795297602088_2065424973505232896_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=2a1932&_nc_ohc=cKV2HO1EeaUQ7kNvgHuPVBf&_nc_ht=scontent.fcgh38-1.fna&oh=00_AYAl6MO0moGXS50l-B5Y2gvkBCaLCl8xdcVRPbPhQFF78w&oe=66D9C882",
+      "https://github.com/LucasRuizMartins/midia-arenart/blob/main/temporadas/2018-clarao-nas-estrelas/clarao.jpg?raw=true",
     year: ["2017"],
     shortDescription:
       "Vladimir Capella foi um dos maiores encenadores do teatro infanto juvenil brasileiro, mas morreu pobre e esquecido, num retrato comum da desvalorização que a arte e a cultura têm experimentado no país nos últimos tempos. Clarão nas Estrelas é o seu décimo quarto espetáculo, reeditado em 2017 pela jovem companhia de teatro Tal&Pá, que tem sede em Artur Alvim há 23 anos. Na montagem do grupo, não apenas o conto de fadas é encenado: em diversos recortes, a companhia mostra o desencanto do escritor com o teatro e o questionamento dos próprios atores sobre a viabilidade de sua arte.",
-      path: "/temporadas/clarao-nas-estrelas",
+    path: "/temporadas/clarao-nas-estrelas",
   },
   {
     name: "Chao Brasil",
     imgUrl:
-      "https://scontent.fcgh12-1.fna.fbcdn.net/v/t1.18169-9/15170812_1187199408028348_7089318665358804065_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=b895b5&_nc_ohc=uNR4N6hUqc8Q7kNvgERs6rP&_nc_ht=scontent.fcgh12-1.fna&oh=00_AYAtoNeMLA5oUEc-HgbS0_p0Xq1q7AGLKjwYYeSxI1-Vjw&oe=66D9DEED",
+      "https://github.com/LucasRuizMartins/midia-arenart/blob/main/temporadas/2017-chao-brasil/chao-brasil-1.jpg?raw=true",
     year: ["2016"],
     shortDescription:
       "Em novembro, a Cia Tal&Pá apresenta o entreato ‘Chão Brasil’, uma ciranda colorida que traz as expectativas da trupe sobre o país e o próprio futuro. Inspirado no livro ‘Quem roubou o meu futuro?’, de Sylvia Orthof, é a primeira aventura do Tal&Pá em espaço aberto. Curtíssima temporada.",
@@ -125,7 +124,7 @@ export const playsSeason: PlaysDTO[] = [
   {
     name: "O que eu vi, O que nós Veremos",
     imgUrl:
-      "https://scontent.fcgh12-1.fna.fbcdn.net/v/t31.18172-8/1941391_718359954912298_7741786867917918831_o.jpg?_nc_cat=104&ccb=1-7&_nc_sid=b895b5&_nc_ohc=QOIJTk886qIQ7kNvgG_C-fn&_nc_ht=scontent.fcgh12-1.fna&oh=00_AYAkleyCKX_CNkhefjoGh43Ji6D3B7s6-t0dxpVg8mwqaA&oe=66D9E239",
+      "https://github.com/LucasRuizMartins/midia-arenart/blob/main/temporadas/2008-o-que-eu-vi-o-que-nos-veremos/oq-eu-vi%20-2.jpg?raw=true",
     year: ["2008"],
     shortDescription:
       " Por que sonham os homens? O sonho é o ensaio da realização. É o esboço... Rascunho da ação. Quem não sonha, apenas sobrevive... Os jovens da Cia. de Teatro Tal&Pá experimentam a linguagem que permeia o mundo clownesco para reinventar a história de Santos Dumont e seu desejo de voar. Sua figura romântica cruzava os céus de Paris, em máquinas mais-pesadas-que-o-ar, anunciando uma nova era de grandes mudanças. Abrindo o caminho, provando a todos que era possível sonhar, e voar como os pássaros, Santos-Dumont inspirou toda uma geração de artistas, cientistas, inventores e espíritos aventureiros. ",
@@ -160,7 +159,8 @@ export const playsSeason: PlaysDTO[] = [
   },
   {
     name: "O Arauto da Liberdade",
-    imgUrl: "https://scontent.fcgh12-1.fna.fbcdn.net/v/t1.18169-9/535538_421264167955213_510958573_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f798df&_nc_ohc=LNWRdgr1xyMQ7kNvgHfgvpe&_nc_ht=scontent.fcgh12-1.fna&oh=00_AYBAk1HGTqzoVJte4EEe5uStpbgSE5mtLEBqyddtDTh5Qg&oe=66D9D7BC",
+    imgUrl:
+      "https://github.com/LucasRuizMartins/midia-arenart/blob/main/temporadas/2004-o-arauto-da-liberdade/ARAUTO2.JPG?raw=true",
     year: ["2004"],
     shortDescription:
       " ‘Dez vidas eu tivesse, dez vidas eu daria...’ O Arauto da Liberdade é uma adaptação da peça Arena Conta Tiradentes, escrita e encenada pelo Teatro de Arena em 1967. Marco na modernização do teatro brasileiro e um dos palcos mais importantes do país, o Teatro de Arena de São Paulo completa meio século de existência, entre as comemorações dos 450 anos de Sampa. Aproveitando a festa, o Grupo Tal&Pá celebra seus dez anos reencenando o polêmico Arena conta Tiradentes, com o desafio de criar referências comuns ao momento social e político no qual o Brasil se encontra nos dias de hoje.",
@@ -173,7 +173,7 @@ export const playsSeason: PlaysDTO[] = [
     year: ["2003"],
     shortDescription:
       "  ‘O Mambembe’, de Arthur Azevedo, é uma peça de teatro sobre o teatro. A organização da companhia, os tipos que a compõem, os problemas financeiros, as dificuldades com as autoridades locais, com os conquistadores de província, com os coronéis, com o repertório, com as condições técnicas dos locais de representação, tudo é examinado e, como resultado final, há uma exaltação do trabalho dos artistas cênicos e do próprio teatro. Nessa nova temporada, o Grupo de teatro Tal&Pá propõe uma reflexão sobre o trabalho do ator, sobre a possibilidade de comunicar-se com o semelhante através da troca de idéias, imagens, palavras, gestos e emoções. Um divertido, fascinante, e muitas vezes cruel jogo que mistura ficção e realidade, consciente e inconsciente, amor e ódio, sagrado e profano. ",
-    path: "/temporadas/em-construcao",
+    path: "/temporadas/mambembe",
   },
   {
     name: "O Longo Caminho Até a Fonte",
@@ -182,7 +182,7 @@ export const playsSeason: PlaysDTO[] = [
     year: ["2002"],
     shortDescription:
       "	     ‘O longo caminho até a fonte’ é uma peça inspirada no universo mágico do livro A História Sem Fim (The Neverending History, Alemanha,1979), do escritor alemão Michael Ende, com citações de José Luis Borges, Andréa Havt e Mario Quintana, e fala da adolescência como um rito de passagem. Em sua pesquisa, o grupo reflete sobre o significado dos arquétipos e do Inconsciente Coletivo de Jung, partindo do pressuposto que os indivíduos são um processo num mundo mágico, cheio de mitos, de histórias e estórias contidas em cada um de nós.",
-    path: "/temporadas/em-construcao",
+    path: "/temporadas/longo-caminho",
   },
   {
     name: "A Pena e A Lei",
@@ -213,7 +213,8 @@ export const playsSeason: PlaysDTO[] = [
   },
   {
     name: "Um Conto de Natal",
-    imgUrl: "https://github.com/LucasRuizMartins/midia-arenart/blob/main/temporadas/1997-Um-conto-de-natal/um-conto.jpg?raw=true",
+    imgUrl:
+      "https://github.com/LucasRuizMartins/midia-arenart/blob/main/temporadas/1997-Um-conto-de-natal/um-conto.jpg?raw=true",
     year: ["1997"],
     shortDescription:
       "Ebenezer Scrooge é o maior sovina de toda a Inglaterra. Nenhuma faísca de generosidade ilumina seu coração gelado, que não se aquece nem com o Natal. Os pobres? Que se danem! Amor e alegria? Bobagem! Mas, quando as almas do outro mundo resolvem mostrar o que o futuro lhe reserva, o velho pão duro descobre valores bem mais preciosos que o dinheiro. Da obra clássica de Charles Dickens.",
@@ -222,7 +223,8 @@ export const playsSeason: PlaysDTO[] = [
 
   {
     name: "O Fantasma da Opera",
-    imgUrl: "https://github.com/LucasRuizMartins/midia-arenart/blob/main/temporadas/1996-Fantasma-da-opera/fantasman.jpg?raw=true",
+    imgUrl:
+      "https://github.com/LucasRuizMartins/midia-arenart/blob/main/temporadas/1996-Fantasma-da-opera/fantasman.jpg?raw=true",
     year: ["1996"],
     shortDescription:
       "O Grupo Tal&Pá apresenta duas cenas da ópera de Andrew Lloyd Webber, coreografadas como teatro de arena: “Alguns ainda se lembram do estranho caso do fantasma da ópera, um mistério nunca explicado. No início do século dezenove, o misterioso fantasma apaixona-se pela jovem cantora Cristine Daeé e passa a assombrar os corredores do famoso teatro de Paris. Ainda hoje seus passos rondam o sinistro labirinto...Mestre, por favor, acenda o lustre! ",

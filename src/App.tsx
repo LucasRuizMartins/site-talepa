@@ -28,6 +28,7 @@ import Zumbi from "./routes/Peças/Zumbi";
 import UltimoCarro from "./routes/Peças/UltimoCarro";
 import Arauto from "./routes/Peças/Arauto";
 import Mambembe from "./routes/Peças/Mambembe";
+import LongoCaminho from "./routes/Peças/LongoCaminho";
 
 function App() {
   return (
@@ -65,6 +66,7 @@ function App() {
         <Route path="/temporadas/ultimo-carro" element={<UltimoCarro />} />
         <Route path="/temporadas/arauto" element={<Arauto />} />
         <Route path="/temporadas/mambembe" element={<Mambembe />} />
+        <Route path="/temporadas/longo-caminho" element={<LongoCaminho />} />
         <Route path="/temporadas/em-construcao" element={<EmConstrucao />} />
       </Routes>
     </Router>
