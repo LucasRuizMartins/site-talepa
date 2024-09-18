@@ -1,0 +1,17 @@
+.cast-top {
+  background-color: #00289f;
+}
+.cast-technical {
+  background-color: #000;
+}
+
+.cast-coord {
+  background-color: #e67926;
+}
+
+.cast-top {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}

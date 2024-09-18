@@ -1,6 +1,6 @@
 import { TechnicalInfoDTO } from "../models/technical";
 
-export const playsSeason: TechnicalInfoDTO[] = [
+export const techSeason: TechnicalInfoDTO[] = [
   {
     dataHora: "28/08/2024 19:21:36",
     email: "robsonmanes@yahoo.com.br",
@@ -19,24 +19,6 @@ export const playsSeason: TechnicalInfoDTO[] = [
     facebook: "",
     linkedin: "",
     recadinho: "",
-    foto: "",
-  },
-  {
-    dataHora: "27/08/2024 10:09:15",
-    email: "roberta.quirinop@gmail.com",
-    nome: "Roberta Quirino",
-    temporadas: ["2011 - Sussurros", "2010 - Voando para o Alto"],
-    seguePaginaInstagram: "Sim",
-    conteudoRedesSociais: "",
-    talEPaRepresentacao:
-      "Um espaço de liberdade, comunidade e autoconhecimento.",
-    conselho:
-      "Vivam essa experiência ao máximo. Ela marcará a vida de cada um/a de vocês.",
-    ajudaParaONG: "",
-    instagram: "@robsquirino",
-    linkedin: "",
-    facebook: "",
-    recadinho: "Sem esse grupo, eu não seria a pessoa que sou hoje.",
-    foto: "",
-  },
+    foto: "https://github.com/LucasRuizMartins/midia-arenart/blob/main/tecnica/tecnica.jpg?raw=true",
+  }
 ];

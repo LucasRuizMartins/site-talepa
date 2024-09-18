@@ -1,13 +1,12 @@
 .actor-photo {
-
   max-width: 220px;
-  max-height: 220px;
+  max-height: 210px;
   border-radius: 30px;
   border: 1px solid black;
 }
 .card-actor {
-  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
-  margin: 20px;
+  box-shadow: rgb(38, 57, 77) 0px 30px 30px -10px;
+  margin: 5px;
   padding: 10px;
   display: flex;
   text-align: center;

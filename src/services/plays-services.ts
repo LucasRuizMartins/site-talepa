@@ -191,7 +191,7 @@ export const playsSeason: PlaysDTO[] = [
     year: ["2001"],
     shortDescription:
       "Um espetáculo em três atos, que divulga o folclore nordestino, criando um meio de aproximação entre os grupos sociais. ‘A pena e a lei’ é uma súmula do teatro. Síntese de fontes populares e de exigente inspiração erudita, ‘Commedia dell'Arte’ e auto sacramental, sátira de costumes e mensagem teológica, divertimento nordestino e proposição de alcance genérico, herança de valores tradicionais e saída para uma vigorosa dramaturgia coletiva, história concreta e vôo para regiões abstratas, mamulengos e metafísica, a peça inscreve-se, em favor, na vanguarda incontestável do palco moderno. ",
-    path: "/temporadas/em-construcao",
+    path: "/temporadas/pena-lei",
   },
   {
     name: "Muito Barulho por Nada",
@@ -200,7 +200,7 @@ export const playsSeason: PlaysDTO[] = [
     year: ["2000"],
     shortDescription:
       "Terminava a Segunda Guerra Mundial. Em 18 de junho de 1945, aportava no Rio de Janeiro o General Meighs, o mesmo navio-transporte norte-americano que levara para a Itália o 3o, 4 o e 5 o escalões da FEB. Na cidade maravilhosa, a hospedagem de Leonato recebe um grupo de jovens pracinhas, tornando-se o cenário de encontros cômicos e apaixonados, de intrigas e traições. Nessa adaptação da obra de Willian Shakespeare, o Grupo Tal&Pá mostra um animado panorama do Brasil na década de quarenta, comemorando os 500 anos do país com romantismo e muito samba.",
-    path: "/temporadas/em-construcao",
+    path: "/temporadas/muito-barulho",
   },
   {
     name: "Nos Telhados da Cidade",

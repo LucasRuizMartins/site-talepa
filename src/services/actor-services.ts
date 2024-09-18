@@ -419,7 +419,53 @@ export const playsSeason: ActorInfoDTO[] = [
     linkedin: "",
     recadinho:
       "Obrigada Tal e Pá por me ajudar na minha construção, espero um dia poder voltar e trazer algo de mim para vocês também ❤️",
-    foto: "",
+    foto: "https://github.com/LucasRuizMartins/midia-arenart/blob/main/elenco/chao-brasil%20-%20Tempus%20Fugit/ray.jpg?raw=true",
+  },
+  {
+    dataHora: "30/08/2024 12:16:59",
+    email: "valentinama.contato@gmail.com",
+    nome: "Valentina Macedo",
+    temporadas: [
+      "2022 - Bar do Caminho",
+      "2021 - Flor telefone moça",
+      "2019 - Nos telhados da cidade",
+    ],
+    seguePaginaInstagram: "Sim",
+    conteudoRedesSociais:
+      "Super divertido, muito legal ver os alunos produzindo coisa pro Insta também.",
+    talEPaRepresentacao:
+      "Tal&Pá foi minha primeira referência de cultura popular, foi onde aprendi sobre senso de coletivo. O Tal&Pá construiu grande parte do que sou hoje e sempre penso muito nos momentos que passei na companhia.",
+    conselho:
+      "Aproveitem cada momento! (clichê kkkk mas é verdade). Aproveitem ao máximo as oficinas, elas vão servir para a vida de vocês, aproveitem o acesso à cultura, os convites pra assistir outras peças (sinto saudade disso e acho que deveria ter ido em mais peças) e FAÇAM ROLES DO ELENCO!!",
+    ajudaParaONG:
+      "Tô na correria da vida, mas sempre que precisarem de algum braço podem me chamar. Eu podendo dar uma escapadinha das coisas aqui, eu vou!",
+    instagram: "@valentiinamacedo_",
+    linkedin: "",
+    facebook: "",
+    recadinho:
+      "Eu penso no Tal&Pá todos os dias, sempre que estou em alguma atividade de teatro do Centro Popular de Cultura da UMES eu lembro de vocês e em como foi importante para minha formação. #saudades",
+    foto: "https://github.com/LucasRuizMartins/midia-arenart/blob/main/elenco/bardocaminho-%20flor%20telefone%20mo%C3%A7a/valentina.jpg?raw=true",
+  },
+  {
+    dataHora: "30/08/2024 13:04:33",
+    email: "juliasrodrigues0880@gmail.com",
+    nome: "Júlia Rodrigues",
+    temporadas: ["2021 - Flor telefone moça"],
+    seguePaginaInstagram: "Sim",
+    conteudoRedesSociais:
+      "Perfeitos!! Queria ver um pouquinho mais do processo criativo como ensaios, dinâmicas, pedacinhos das peças. Saudade enorme de vocês!",
+    talEPaRepresentacao:
+      "Foi o motivo que me ajudou a descobrir meu espaço na arte. Graças ao Tal&Pá descobri maneiras diversas de me expressar e de me descobrir através do teatro e outros. Mesmo que por detrás de uma tela de computador, eles conseguiram me cativar como se estivessem segurando a minha mão e sou muito grata a isso!",
+    conselho:
+      "Aproveitem e estejam presentes a cada minuto, em todos os aspectos!",
+    ajudaParaONG:
+      "Sim! Ajudaria financeiramente, mas é um pouco complicado, porém consigo ajudar através de divulgação e engajamento.",
+    instagram: "@juliarods",
+    linkedin: "",
+    facebook: "",
+    recadinho:
+      "Um beijão especial para as profs Val e Sol, guardo vocês no peito. E outro pra todo o pessoal de 'Flor, Telefone, Moça', foi um prazer dividir essa experiência com vocês!",
+    foto: "https://github.com/LucasRuizMartins/midia-arenart/blob/main/elenco/bardocaminho-%20flor%20telefone%20mo%C3%A7a/J%C3%BAlia%20Rodrigues.jpg?raw=true",
   },
   /* ----------------- 2019 - 2020 - 2022*/
   {
@@ -507,6 +553,31 @@ export const playsSeason: ActorInfoDTO[] = [
 
   /* 2017-2016-2015*/
   {
+    dataHora: "30/08/2024 12:12:16",
+    email: "matheusaves9@gmail.com",
+    nome: "Matheus Tomé",
+    temporadas: [
+      "2017 - Clarão nas estrelas",
+      "2016 - Chão Brasil",
+      "2015 - Insane",
+    ],
+    seguePaginaInstagram: "Sim",
+    conteudoRedesSociais:
+      "O conteúdo que está sendo postado é muito interessante, pois mostra o dia a dia da companhia e as produções que estão sendo desenvolvidas.",
+    talEPaRepresentacao:
+      "O Tal & Pá representou para mim um dos momentos mais importantes da vida e meu desenvolvimento enquanto pessoa e artista.",
+    conselho:
+      "Aproveitem cada momento, se joguem de cabeça em cada oficina que for proposta, não sintam vergonha.",
+    ajudaParaONG:
+      "Poderia ajudar com o desenvolvimento de novos projetos enquanto técnico.",
+    instagram: "@matheusalvestome",
+    linkedin: "",
+    facebook: "",
+    recadinho:
+      "Obrigado por me mostrarem como fazer teatro muda a nossa vida. Não vamos deixar que as pessoas fiquem caretas.",
+    foto: "https://github.com/LucasRuizMartins/midia-arenart/blob/main/elenco/isane%20-%20joana/matheus%20tome.jpg?raw=true",
+  },
+  {
     dataHora: "28/08/2024 15:51:59",
     email: "julia.sabatelau@live.com",
     nome: "Julia Sabatelau",
@@ -580,7 +651,87 @@ export const playsSeason: ActorInfoDTO[] = [
     recadinho: "Estou morrendo de saudades de tudo e todos.",
     foto: "https://github.com/LucasRuizMartins/midia-arenart/blob/main/elenco/Voando%20-%20Sussurros%20-%20Danton/fernanda.jpg?raw=true",
   },
+  {
+    dataHora: "01/09/2024 13:41:42",
+    email: "taina.l2001@gmail.com",
+    nome: "Tainá Lima",
+    temporadas: [
+      "2019 - Nos telhados da cidade",
+      "2017 - Clarão nas estrelas",
+      "2016 - Chão Brasil",
+      "2015 - Insane",
+    ],
+    seguePaginaInstagram: "Sim",
+    conteudoRedesSociais:
+      "Informativo, bom para que outras pessoas possam conhecer o dia a dia e a Cia.",
+    talEPaRepresentacao:
+      "Como uma pessoa que tinha diversas dificuldades, foi um espaço onde pude me desenvolver e descobrir habilidades e desejos. Se hoje sou o que sou é graças à Cia de teatro Tal&Pá.",
+    conselho:
+      "Participem de tudo o que puderem, mostrem o que sabem, experimentem e arrisquem.",
+    ajudaParaONG:
+      "Com contribuições de dinheiro esporádicas, ajuda para produção.",
+    instagram: "@tainattt",
+    linkedin: "https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav",
+    facebook: "",
+    recadinho: "Saudades de vocês! 💙",
+    foto: "https://github.com/LucasRuizMartins/midia-arenart/blob/main/elenco/isane%20-%20joana/taina.jpg?raw=true",
+  },
+  {
+    dataHora: "07/09/2024 13:13:23",
+    email: "raphaela.mendes1997@gmail.com",
+    nome: "Raphaela Mendes / Ella Ferreira",
+    temporadas: [
+      "2016 - Chão Brasil",
+      "2015 - Insane",
+      "2014 - As vozes de Joana",
+      "2012 - Arena Conta Danton",
+      "2009 - Até onde a vista alcança",
+      "O Rei Leão e Um parque para os monstros (projetos especiais)",
+      "Quem casa quer casa e Romão e Julinha (T&P Junior)",
+    ],
+    seguePaginaInstagram: "Sim",
+    conteudoRedesSociais:
+      "É muito bom ver o uso das redes sociais sendo melhor bem utilizado do que na minha época kkkkk",
+    talEPaRepresentacao:
+      "Foi uma época muito boa e muito importante pra mim e eu tive muita sorte em saber disso enquanto a vivia. É sempre muito difícil ter um grupo de amigos com o qual a gente se conecta de verdade, sem temer julgamentos por sermos quem somos e eu tive isso nas temporadas em que pude estar no Tal&Pá. A cia. é sempre um grande sinônimo pra mim do tipo de pessoas que quero ter na minha vida e do impacto que eu quero ter no mundo.",
+    conselho:
+      "Aproveitem cada situação! Tudo é muito intenso e é bom que seja assim. Se apoiem, se escutem e não esqueçam que o que a gente faz na arte só pode ser feito porque temos uns aos outros. Vocês têm um ao outro e vocês podem crescer cada vez mais (cada um naquilo que procura) porque estão juntos.",
+    ajudaParaONG:
+      "Além da divulgação nas redes sempre que tem coisa nova, tenho interesse em me associar à ONG.",
+    instagram: "@srta_sabetudo",
+    linkedin: "https://www.linkedin.com/in/raphaela-fernanda-f-mendes/",
+    facebook: "",
+    recadinho:
+      "Desculpa a ausência louca dos últimos anos, juro que não é intencional, eu só sou péssima em manter contato com coisas fora da minha rotina rs. Mas vocês todos são importantes e eu os amo muito!",
+    foto: "https://github.com/LucasRuizMartins/midia-arenart/blob/main/elenco/isane%20-%20joana/rapha.jpg?raw=true",
+  },
+
   /*----------------------- 2010 -2011- 2012- 2013- 2014 */
+  {
+    dataHora: "13/09/2024 18:24:01",
+    email: "fehlavigne@outlook.com",
+    nome: "Fernando Nascimento (Lavigne)",
+    temporadas: [
+      "2014 - As vozes de Joana",
+      "2012 - Arena Conta Danton",
+      "2011 - Sussurros",
+      "O Rei Leão",
+    ],
+    seguePaginaInstagram: "Sim",
+    conteudoRedesSociais:
+      "Maravilhoso, é muito interessante acompanhar o processo criativo dos novos integrantes.",
+    talEPaRepresentacao:
+      "Crescimento, o Tal&Pá ajudou a moldar a pessoa que sou hoje, contribuiu no processo para me entender enquanto pessoa e artista, lá vivência anos maravilhosos que levo com muito carinho no coração, conheci pessoas que amo muito. Sou muito grato ao Tal&Pá e honrado em fazer parte dessa família.",
+    conselho:
+      "Aproveitem ao máximo, criem vínculos, se dediquem ao aprendizado. E muita merda pq vão ser os melhores anos das suas vidas.",
+    ajudaParaONG: "Posso ajudar com a contribuição de investimento nas peças.",
+    instagram: "@fernando.lavigne",
+    linkedin:
+      "https://www.linkedin.com/in/fernando-nascimento-78824a224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+    facebook: "",
+    recadinho: "Olá família smurf, passando para dizer que amo vocês 💙",
+    foto: "https://github.com/LucasRuizMartins/midia-arenart/blob/main/elenco/Voando%20-%20Sussurros%20-%20Danton/fernando%20nascimento.jpg?raw=true",
+  },
   {
     dataHora: "28/08/2024 21:43:50",
     email: "somoraandre@hotmail.com",
@@ -802,11 +953,122 @@ export const playsSeason: ActorInfoDTO[] = [
     linkedin: "",
     facebook: "",
     recadinho: "Sem esse grupo, eu não seria a pessoa que sou hoje.",
-    foto: "",
+    foto: "https://github.com/LucasRuizMartins/midia-arenart/blob/main/elenco/arauto-mambembe/roberta.jpeg?raw=true",
   },
-
+  {
+    dataHora: "30/08/2024 12:06:57",
+    email: "diggorocha@gmail.com",
+    nome: "Rodrigo Rocha",
+    temporadas: ["2002 - O Longo caminho até a fonte", "2001 - A pena e a Lei"],
+    seguePaginaInstagram: "Sim",
+    conteudoRedesSociais: "Otimo",
+    talEPaRepresentacao: "Muito aprendizado e lições que levo para a vida.",
+    conselho:
+      "Aproveite o máximo, cada ensaio, cada momento e valorize muito o trabalho de todos.",
+    ajudaParaONG: "Sim. Ainda estou pensando em como poderei ajudar.",
+    instagram: "@rodrigorocha.s10",
+    linkedin: "",
+    facebook: "",
+    recadinho:
+      "Gostaria de parabenizar a todos por esse projeto maravilhoso que um dia eu fiz parte e que fez muita diferença na minha vida.",
+    foto: "https://github.com/LucasRuizMartins/midia-arenart/blob/main/elenco/pena%20e%20a%20lei%20-%20longo%20caminho/rodrigo%20rocha.jpg?raw=true",
+  },
+  {
+    dataHora: "30/08/2024 23:14:37",
+    email: "reggis.silva@gmail.com",
+    nome: "Réggis Silva",
+    temporadas: [
+      "2001 - A pena e a Lei",
+      "2000 - Muito barulho por nada",
+      "1999 - Nos telhados da cidade",
+    ],
+    seguePaginaInstagram: "Sim",
+    conteudoRedesSociais:
+      "Maravilhoso. Gosto muito porque fico sabendo o que o grupo tem feito, que o trabalho não parou.",
+    talEPaRepresentacao:
+      "O Tal & Pá salvou minha vida. Descobri que tenho vocação para ser um artista através desse lindo projeto. A gratidão sempre será eterna. Por onde ando, conto de onde eu vim: Cia Tal & Pá.",
+    conselho:
+      "Se você está fazendo parte desse grupo, preserve-o pois, o cunho social e artístico que esse grupo proporciona é coisa rara de se encontrar. Vida longa ao Tal & Pá.",
+    ajudaParaONG:
+      "Divulgando e procurando pessoas ou empresas que financiem ou colaborem para que esse projeto continue existindo.",
+    instagram: "@reggissilva",
+    linkedin: "",
+    facebook: "",
+    recadinho: "Obrigado Tal & Pá por transformar minha vida!",
+    foto: "https://github.com/LucasRuizMartins/midia-arenart/blob/main/elenco/zumbi/reggis.jpg?raw=true",
+  },
+  /* 2005-2009 */
+  {
+    dataHora: "13/09/2024 21:16:22",
+    email: "alinesrluz@gmail.com",
+    nome: "Aline Rodrigues",
+    temporadas: [
+      "2008 - O que eu vi, o que nós veremos",
+      "2007 - Motorboy",
+      "2006 - Arena Conta Zumbi",
+    ],
+    seguePaginaInstagram: "Sim",
+    conteudoRedesSociais: "",
+    talEPaRepresentacao: "💙",
+    conselho: "",
+    ajudaParaONG: "",
+    instagram: "",
+    linkedin: "",
+    facebook: "",
+    recadinho: "",
+    foto: "https://github.com/LucasRuizMartins/midia-arenart/blob/main/elenco/zumbi/aline-rodrigues.jpg?raw=true",
+  },
+  {
+    dataHora: "13/09/2024 23:42:52",
+    email: "ariovaldoramosjr@gmail.com",
+    nome: "Ariovaldo Júnior",
+    temporadas: [
+      "2010 - Voando para o Alto",
+      "2007 - Motorboy",
+      "2006 - Arena Conta Zumbi",
+      "2005 - O último Carro",
+      "2004 - Arauto da Liberdade",
+      "2003 - O Mambembe",
+      "2002 - O Longo caminho até a fonte",
+    ],
+    seguePaginaInstagram: "Sim",
+    conteudoRedesSociais:
+      "Interessante e muito significativo para a juventude atual.",
+    talEPaRepresentacao:
+      "Foi onde construí meu caráter, onde sonhei e aprendi a alcançar meus sonhos.",
+    conselho:
+      "Embarque nessa aventura de mente aberta, aproveite cada segundo e curta todos os momentos.",
+    ajudaParaONG: "Posso ajudar como oficineiro.",
+    instagram: "@inxtajr",
+    linkedin: "",
+    facebook: "",
+    recadinho: "“Aquilo que a memória ama, fica eterno…”",
+    foto: "https://github.com/LucasRuizMartins/midia-arenart/blob/main/elenco/zumbi/ariovaldo-junior.jpg?raw=true",
+  },
   /* 1999 - 2000 */
-
+  {
+    dataHora: "30/08/2024 21:14:16",
+    email: "almircbio@hotmail.com",
+    nome: "Almir",
+    temporadas: [
+      "2000 - Muito barulho por nada",
+      "1999 - Nos telhados da cidade",
+      "1997 - Um conto de natal",
+    ],
+    seguePaginaInstagram: "Sim",
+    conteudoRedesSociais: "Muito bom, revivendo muitos momentos.",
+    talEPaRepresentacao:
+      "O Tal & Pá representa acesso a cultura, possibilidade de alçar voos, perseverança e força de trabalho com muito amor e dedicação. Crescimento e evolução pessoal. Tal & Pá é uma ação que amplia horizontes e só posso dizer: 'Muito obrigado às responsáveis desse sonho, Valéria e Sandra e parabéns a todos os que estão caminhando e seguindo com todo este sonho.'",
+    conselho:
+      "Aproveitem o máximo possível, se dediquem e ultrapassem seus limites. A arte é algo que nos expande e mesmo que não venha seguir carreira artística você jamais será o mesmo depois que esteve envolvido com as artes.",
+    ajudaParaONG: "ME GRITA! Estarei à disposição.",
+    instagram: "@almircbio",
+    linkedin: "",
+    facebook: "",
+    recadinho:
+      "Sempre é bom agradecermos quem esteve em nossa formação. Muitíssimo obrigado pela dedicação e pela oportunidade que as professoras Valéria e Sandra me proporcionaram. Obviamente também agradeço a Tia Helena por estar sempre presente e apoiar sua filha (guerreira).",
+    foto: "https://cdn-icons-png.flaticon.com/512/1373/1373255.png",
+  },
   {
     dataHora: "28/08/2024 23:20:36",
     email: "geprado81@gmail.com",
@@ -823,7 +1085,7 @@ export const playsSeason: ActorInfoDTO[] = [
     linkedin: "",
     recadinho:
       "Apesar de me considerar tímido na época em que participei do Tal & Pá, o que para mim era um grande desafio atuar, mas mesmo assim amei cada momento e me recordo com saudades, me sentia livre para ser quem eu quisera e foi um dos momentos mais felizes da minha adolescência.",
-    foto: "",
+    foto: "https://github.com/LucasRuizMartins/midia-arenart/blob/main/elenco/muito%20barulho%20por%20nada%20-%20nostelhados%20da%20cidade/George%20Prado.jpg?raw=true",
   },
   {
     dataHora: "28/08/2024 11:41:28",
@@ -842,6 +1104,6 @@ export const playsSeason: ActorInfoDTO[] = [
     facebook: "",
     linkedin: "",
     recadinho: "",
-    foto: "",
+    foto: "https://github.com/LucasRuizMartins/midia-arenart/blob/main/elenco/muito%20barulho%20por%20nada%20-%20nostelhados%20da%20cidade/vanessa-freitas.jpg?raw=true",
   },
 ];
